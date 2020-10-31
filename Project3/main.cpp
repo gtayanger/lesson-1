@@ -17,6 +17,7 @@ int main(void)
 	{
 		output1(n, m);
 		printf("\n");
+		if(true) printf("asdb");
 	}
 
 	// do something.
