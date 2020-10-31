@@ -18,4 +18,6 @@ int main(void)
 		output1(n, m);
 		printf("\n");
 	}
+
+	// do something.
 }
