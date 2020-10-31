@@ -10,14 +10,15 @@ int main(void)
 {
 	int a;
 	scanf_s("%d", &a);
-	
+
 	int n = 1;
 	char m = '*';
 	for (n = 1; n <= 2 * a; n = n + 2)
 	{
 		output1(n, m);
 		printf("\n");
-		if(true) printf("asdb");
+		if (true)
+			printf("asdb");
 	}
 
 	// do something.
